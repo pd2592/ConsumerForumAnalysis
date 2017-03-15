@@ -1,0 +1,4 @@
+
+flume-ng agent -n agent -c conf -f comsumercomplaincopy.conf
+
+
